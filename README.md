@@ -6,4 +6,4 @@ For this project, I worked as first statistical consultant that dealt meeting wi
 * Identify the association between biomass with water use.
 * Identify the best crop type (field pea, Chickpea) under same irrigation level.
 
-At the end, data analysis (Done in SAS) was conducted followed by report which included interpretation of results and answer to the objectives outlined above
+At the end, data analysis (Done in SAS) was conducted followed by report which included interpretation of results and answers to the objectives outlined above
